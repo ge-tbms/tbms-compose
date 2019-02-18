@@ -1,0 +1,6 @@
+[submodule "tbms-brandsdk-yunxin"]
+	path = tbms-brandsdk-yunxin
+	url = https://github.com/ge-tbms/tbms-brandsdk-yunxin.git
+[submodule "tbms-packages"]
+	path = tbms-packages
+	url = https://github.com/ge-tbms/tbms-packages.git
