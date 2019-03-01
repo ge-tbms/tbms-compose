@@ -4,3 +4,9 @@
 [submodule "tbms-packages"]
 	path = tbms-packages
 	url = https://github.com/ge-tbms/tbms-packages.git
+[submodule "tbms-chat"]
+	path = tbms-chat
+	url = https://github.com/ge-tbms/tbms-chat.git
+[submodule "tbms-components"]
+	path = tbms-components
+	url = https://github.com/ge-tbms/tbms-components.git

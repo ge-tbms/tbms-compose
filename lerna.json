@@ -1,7 +1,10 @@
 {
   "packages": [
     "tbms-brandsdk-yunxin/packages/*",
-    "tbms-packages/packages/*"
+    "tbms-packages/packages/*",
+    "tbms-chat/packages/*",
+    "tbms-components/packages/*"
   ],
-  "version": "independent"
+  "version": "independent",
+  "npmClient": "tnpm"
 }
